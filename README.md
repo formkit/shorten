@@ -16,7 +16,7 @@ curl -X POST -d "https://www.youtube.com/watch?v=10q09MMqU9E" https://formk.it
 You can of course run your own shortener, and we encourage you to do so.
 
 ```sh
-npx giget@latest gh:formkit/shortener my-shortener-app
+npx giget@latest gh:formkit/shorten my-shortener-app
 ```
 
 You’ll need to provide your own Nitro storage adapter credentials (we use Vercel’s KV store)
