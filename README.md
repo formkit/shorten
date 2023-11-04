@@ -37,4 +37,4 @@ Finally use a `.env` file with the appropriate [environment variables for your a
 
 ## Notice
 
-If you chose to use the `formk.it` public shortener, please be aware that we do cannot guarantee the longevity of the short urls. We will try to keep them alive, but we may need to remove them at any time. If you need a short url that will never change, please run your own shortener.
+If you chose to use the `formk.it` public shortener, please be aware that we cannot guarantee the longevity of the short urls. We will try to keep them alive, but we may need to remove them at any time. If you need a short url that will never change, please run your own shortener.
