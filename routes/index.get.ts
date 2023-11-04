@@ -1,3 +1,5 @@
-export default defineEventHandler(() => {
-  return { status: 307, location: "https://github.com/formkit/shorten" };
+export default defineEventHandler((event) => {
+  setResponseStatus(event, 307);
+  setHeader(event, "Location", "https://github.com/formkit/shorten");
+  return "Redirecting...";
 });
