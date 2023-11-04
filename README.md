@@ -1,4 +1,4 @@
-# FormKit Url Shortener
+# FormKit Url Shortener 🗜️
 
 This is a public url shortener built with [UnJS’s excellent Nitro server](https://nitro.unjs.io/) server. Anyone is welcome to use it free of charge ❤️. You can use it to shorten any url, and in general we (the FormKit team) will try to keep these short url’s alive.
 
