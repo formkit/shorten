@@ -4,7 +4,7 @@ This is a public url shortener built with [UnJS’s excellent Nitro server](http
 
 ## Usage
 
-To shorten a URL ping perform a post request to `https://formk.it` with the url you’d like to shorten in the body (this can be plain text or a JSON object with a "url" property):
+To shorten a URL perform a post request to `https://formk.it` with the url you’d like to shorten in the body (this can be plain text or a JSON object with a "url" property):
 
 ```sh
 curl -X POST -d "https://www.youtube.com/watch?v=10q09MMqU9E" https://www.formk.it
